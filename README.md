@@ -10,10 +10,6 @@ Platform streaming donghua modern yang dibangun dengan teknologi web terkini.
 - **Styling**: Tailwind CSS
 - **Components**: Flowbite
 
-## 🔗 API
-
-Donghua API tersedia di: **[https://www.molivollerei.com/anime](https://www.molivollerei.com/anime)**
-
 ## 📦 Instalasi
 
 ### Clone Repository
@@ -60,13 +56,3 @@ node ./dist/server/entry.mjs
 ```
 
 Untuk informasi lebih lanjut tentang adapter server, kunjungi [dokumentasi Astro](https://docs.astro.build/en/guides/on-demand-rendering/#server-adapters).
-
-## 🤝 Contributing
-
-Open Kontribusi, issues, dan feature requests!
-
-## 👨‍💻 Author
-
-**MoliVollerei**
-
-- GitHub: [@MoliVollereii](https://github.com/MoliVollereii)
