@@ -15,7 +15,7 @@ interface animeConfig {
 
 const animeConfig: animeConfig = {
   molidonghub: {
-    siteName: "Jansen Donghub Stream",
+    siteName: "ⱼₐₙₛₑₙ DₒₙGₕᵤB ₛₜᵣₑₐₘ",
     description: "Nonton donghua gratis ga pake karcis hanya di Jansen Donghub Stream",
     logo: "/images/logo.png",
     favicon: "/favicon.png",
